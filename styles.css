@@ -1,0 +1,39 @@
+.a, .aa, .aaa {
+    background-color: olive;
+    text-align:center ;
+    font-family: 'Segoe UI';
+    color:white;
+}
+a:link {
+	color:white;
+    text-decoration: none;
+}
+a:hover.link {
+	color: white;
+	text-decoration: none;
+}
+a:active {
+	color:white;
+    text-decoration: none;
+}
+a:visited {
+	color:white;
+    text-decoration: none;
+	}
+#elem {
+     border-width: 2 px;
+     border-style: dashed;
+     border-color: rgb(20, 59, 20);
+     width: auto px;
+     height:none;
+}
+body {
+    height: 4000px;
+    
+    background: linear-gradient(#FFEFD5, #94784c);
+}
+.b{
+    padding-top: auto;
+    padding-bottom: auto;
+    display: flex;
+}
